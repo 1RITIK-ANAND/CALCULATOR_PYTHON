@@ -3,6 +3,10 @@
 
 This is a simple calculator application built using Python's `Tkinter` library. It includes basic arithmetic operations, keyboard input support, and a feature to toggle between dark and light themes. 
 
+
+## EXECUTABLE FILE
+There's also a .exe file which can be used to access the calculator on windows
+
 ## Features
 
 - **Basic Calculator Operations**: Supports addition, subtraction, multiplication, division, and more.
